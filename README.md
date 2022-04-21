@@ -8,6 +8,10 @@ driver - The driver initialised to '1'. The trajectory depicts one full cycle of
 
 doubleBit - The double-bit system with input bit initalised to '1' and storage bit initialised to '0'. The trajectory depicts the process by which the storage bit is overwritten by the input bit as described in section IV.
 
-nandNeut00, nandNeut01, nandNeut11 - The NAND gate linked to a pair of drivers initialised to the states '00', '01' and '11'. The trajectory depicts the process described in section Va.
+nandNeut00, nandNeut01, nandNeut11 - The NAND gate linked to a pair of drivers initialised to the states '00', '01' and '11' respectively. The trajectory depicts the process described in section Va.
 
 nandSwitch1100 - The NAND gate linked to a pair of switches initialised to the state '11' and driven to the states '00'. The trajectory depicts the process described in section Vb.
+
+phaseChain2, phaseChain3, phaseChain4 - The phase-chained system consisting of 2, 3 and 4 NAND gates respectively. The trajectory depicts the process described in secion VIb.
+
+hadder0111
