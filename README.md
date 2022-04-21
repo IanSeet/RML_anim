@@ -12,6 +12,8 @@ nandNeut00, nandNeut01, nandNeut11 - The NAND gate linked to a pair of drivers i
 
 nandSwitch1100 - The NAND gate linked to a pair of switches initialised to the state '11' and driven to the states '00'. The trajectory depicts the process described in section Vb.
 
-phaseChain2, phaseChain3, phaseChain4 - The phase-chained system consisting of 2, 3 and 4 NAND gates respectively. The trajectory depicts the process described in secion VIb.
+phaseChain2, phaseChain3, phaseChain4 - The phase-chained system consisting of 2, 3 and 4 NAND gates respectively. The trajectory depicts the process described in section VIb.
 
-hadder0111
+hadder0111 - The half adder initialised to the state '01' and driven to the state '11'. The trajectory depicts the process described in section VIc.
+
+hadderBoost0111 - The half adder with boosted inverter and drivers initialised to the state '01' and driven to the state '11'. The trajectory depicts the process described in section VIc.
