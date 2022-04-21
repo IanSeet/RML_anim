@@ -2,7 +2,7 @@
 Animations for the paper &lt;Simulation of reversible molecular mechanical logic gates and circuits>
 
 Note: viewing these animations requires that you have VMD installed.
-In order to view the trajectory files as animations within VMD, download the folder and navigate to the present working directory in the VMD console to it. Type the command "source anim.tcl" and hit enter. You will be prompted to enter the name of the trajectory you wish to load. Below is a list of the trajectories in this folder and the systems they correspond to in the paper:
+In order to view the trajectory files as animations within VMD, download the folder and navigate to it in the VMD console. Type the command "source anim.tcl" and hit enter. You will be prompted to enter the name of the trajectory you wish to load. Below is a list of the trajectories in this folder and the systems they correspond to in the paper:
 
 driver - The driver initialised to '1'. The trajectory depicts one full cycle of the driver.
 
